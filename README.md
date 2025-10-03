@@ -7,7 +7,7 @@ This project demonstrates a simple parallel sorting implementation in C. It uses
 - **Merging**: A third thread merges the two sorted halves into a final sorted array.
 - **Fixed Array Size**: The array has a predefined size of 10 elements for simplicity.
 - **In-Place Sorting**: Quicksort operates in-place on the original array before merging.
-
+ 
 ## Sample Input Array
 The program starts with the following unsorted array:  
 `[38, 27, 43, 3, 9, 82, 10, 15, 5, 1]`
